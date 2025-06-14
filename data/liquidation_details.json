@@ -1,0 +1,325 @@
+[
+    {
+        "_id": "0x38_0xa848cfd057fe36df94ec2fe5e2201a162140bd10_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xa848cfd057fe36df94ec2fe5e2201a162140bd10",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1676012980": {
+                    "collateralAmount": 0.015732991347337695,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 345.30769409136775,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            },
+            "liquidatedWallet": {
+                "1676012980": {
+                    "debtAmount": 313.2040182281765,
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAssetInUSD": 314.143630282861,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0x0e1e1fde4b509104fe9b40df7ab925c0d831a8ac_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0x0e1e1fde4b509104fe9b40df7ab925c0d831a8ac",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1678386827": {
+                    "collateralAmount": 0.004854330010549192,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 103.86809923572106,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            },
+            "liquidatedWallet": {
+                "1678386827": {
+                    "debtAmount": 92.96366460890502,
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAssetInUSD": 93.05662827351391,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0xb00008edc2d358bf7812a5740c3f546b262a000b_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xb00008edc2d358bf7812a5740c3f546b262a000b",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1678395514": {
+                    "collateralAmount": 0.00428325703135688,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 88.04663153657202,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            },
+            "liquidatedWallet": {
+                "1678395514": {
+                    "debtAmount": 78.59674553203865,
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAssetInUSD": 78.91113251416681,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0x794cd671b5bef553016df15ac8bfca30a177056d_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0x794cd671b5bef553016df15ac8bfca30a177056d",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "liquidatedWallet": {
+                "1675935627": {
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAmount": 1468.3151089662385,
+                    "debtAssetInUSD": 1469.7834240752047
+                }
+            },
+            "debtBuyerWallet": {
+                "1675935627": {
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAmount": 0.07115810612610195,
+                    "collateralAssetInUSD": 1614.0793212583706
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0xd3455773c44bf0809e2aeff140e029c632985c50_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xd3455773c44bf0809e2aeff140e029c632985c50",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "liquidatedWallet": {
+                "1675943931": {
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAmount": 739.8447463950467,
+                    "debtAssetInUSD": 739.8447463950467
+                }
+            },
+            "debtBuyerWallet": {
+                "1675943931": {
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAmount": 0.03587449400786591,
+                    "collateralAssetInUSD": 814.0281435324854
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0xa000071d5b7f57fb5c3bc7a6b6d75c57d73d000a_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xa000071d5b7f57fb5c3bc7a6b6d75c57d73d000a",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1676229003": {
+                    "collateralAmount": 0.00784189770464076,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 172.20023169620643,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            },
+            "liquidatedWallet": {
+                "1676229003": {
+                    "debtAmount": 156.65149187911703,
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAssetInUSD": 156.58099870777144,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0xcc0265bd33681359558921f73132f2401ff1c5bf_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xcc0265bd33681359558921f73132f2401ff1c5bf",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1676007280": {
+                    "collateralAmount": 0.01869222366807661,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 407.5278604114062,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            },
+            "liquidatedWallet": {
+                "1676007280": {
+                    "debtAmount": 369.96907524643194,
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAssetInUSD": 370.33904432167833,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0x3101cbc9d002087d4decbbea6178ad1cfae94163_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0x3101cbc9d002087d4decbbea6178ad1cfae94163",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1676147731": {
+                    "collateralAmount": 0.009381057497665648,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 203.3156591469076,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            },
+            "liquidatedWallet": {
+                "1676147731": {
+                    "debtAmount": 185.031757607852,
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAssetInUSD": 185.21678936545985,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0x684c6b8cdee3c5b087ede79b9bb86e208ba494ae_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0x684c6b8cdee3c5b087ede79b9bb86e208ba494ae",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "liquidatedWallet": {
+                "1675938850": {
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3",
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAmount": 1252.711273485914,
+                    "debtAssetInUSD": 1252.711273485914
+                }
+            },
+            "debtBuyerWallet": {
+                "1675938850": {
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3",
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAmount": 0.060679720627824486,
+                    "collateralAssetInUSD": 1377.0655799278488
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0xd0ad0201e6b1a59c333ed3676dd559591cb3ced9_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xd0ad0201e6b1a59c333ed3676dd559591cb3ced9",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "liquidatedWallet": {
+                "1675954732": {
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3",
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAmount": 626.3687073816911,
+                    "debtAssetInUSD": 626.9950760890728
+                }
+            },
+            "debtBuyerWallet": {
+                "1675954732": {
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3",
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAmount": 0.030345867585910596,
+                    "collateralAssetInUSD": 689.4884574194747
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0xfc76ef7f67c8cf332f5a0bf44afecd880d50579d_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0xfc76ef7f67c8cf332f5a0bf44afecd880d50579d",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1683739390": {
+                    "collateralAmount": 0.0019081762336019806,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 82.0935579220244,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                },
+                "1685980525": {
+                    "collateralAmount": 0.1548067840473918,
+                    "collateralAsset": "0x0000000000000000000000000000000000000000",
+                    "collateralAssetInUSD": 38.67228272287894,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                },
+                "1694595795": {
+                    "collateralAmount": 0.0010335641173779195,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 43.41692787869427,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            },
+            "liquidatedWallet": {
+                "1683739390": {
+                    "debtAmount": 46.8515032174495,
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAssetInUSD": 47.0389092303193,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                },
+                "1685980525": {
+                    "debtAmount": 39.786132475540285,
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAssetInUSD": 39.73560408729635,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                },
+                "1694595795": {
+                    "debtAmount": 24.382580136260227,
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAssetInUSD": 24.406962716396485,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0x9fc54d0e8ea487c1769ef80d458378e2c7dd1013_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0x9fc54d0e8ea487c1769ef80d458378e2c7dd1013",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1698534888": {
+                    "collateralAmount": 0.0008631951716797413,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 36.48035434552923,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            },
+            "liquidatedWallet": {
+                "1698534888": {
+                    "debtAmount": 26.710531173895827,
+                    "debtAsset": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "debtAssetInUSD": 26.763952236243618,
+                    "protocol": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0x38_0x9fd08827cb72d2f40fbcacc6a016159353c3bb31_0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "debtBuyerWallet": "0x9fd08827cb72d2f40fbcacc6a016159353c3bb31",
+        "liquidatedWallet": "0x5ccd16958b3808d80b24838dd7190c67bfde91d0",
+        "liquidationLogs": {
+            "debtBuyerWallet": {
+                "1705077480": {
+                    "collateralAmount": 0.0006966944179756801,
+                    "collateralAsset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+                    "collateralAssetInUSD": 30.707503166696075,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            },
+            "liquidatedWallet": {
+                "1705077480": {
+                    "debtAmount": 27.68856292555248,
+                    "debtAsset": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+                    "debtAssetInUSD": 29.072991071830103,
+                    "protocol": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3"
+                }
+            }
+        }
+    }
+]

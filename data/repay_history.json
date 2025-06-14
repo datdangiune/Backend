@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "0x38_0xb9c07bdc4d0f48eec49cb2fe75cba5a8bb79cffe_0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
+        "walletAddress": "0xb9c07bdc4d0f48eec49cb2fe75cba5a8bb79cffe",
+        "lendingPoolAddress": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
+        "repayLogs": {
+            "1675954343": {
+                "tokens": {
+                    "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": 126.19253744448038
+                },
+                "valueInUSD": 126.19253744448038
+            }
+        },
+        "totalAmountOfRepayInUSD": 126.19253744448038,
+        "totalNumberOfRepay": 1,
+        "highestRepayInUSD": 126.19253744448038,
+        "lowestRepayInUSD": 126.19253744448038,
+        "averageRepayInUSD": 126.19253744448038
+    },
+    {
+        "_id": "0x38_0xb9c07bdc4d0f48eec49cb2fe75cba5a8bb79cffe_0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
+        "walletAddress": "0xb9c07bdc4d0f48eec49cb2fe75cba5a8bb79cffe",
+        "lendingPoolAddress": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
+        "repayLogs": {
+            "1675955453": {
+                "tokens": {
+                    "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3": 3.6716358498461e-05
+                },
+                "valueInUSD": 3.671536715678154e-05
+            }
+        },
+        "totalAmountOfRepayInUSD": 3.671536715678154e-05,
+        "totalNumberOfRepay": 1,
+        "highestRepayInUSD": 3.671536715678154e-05,
+        "lowestRepayInUSD": 3.671536715678154e-05,
+        "averageRepayInUSD": 3.671536715678154e-05
+    }
+]

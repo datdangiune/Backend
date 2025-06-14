@@ -1,0 +1,24 @@
+{
+    "_id": "0xfa_0xb9c07bdc4d0f48eec49cb2fe75cba5a8bb79cffe",
+    "address": "0xb9c07bdc4d0f48eec49cb2fe75cba5a8bb79cffe",
+    "chainId": "0xfa",
+    "createdAt": 1630782364,
+    "flagged": 39,
+    "lendings": {
+        "0x9fad24f572045c7869117160a571b2e50b10d068": {
+            "borrowInUSD": 0.0,
+            "depositInUSD": 0.0,
+            "borrowChangeLogs": {
+                "1700071583": 0.0
+            },
+            "depositChangeLogs": {
+                "1700071583": 0.0
+            }
+        }
+    },
+    "theFirstToHash": "0xaa3b042ad816666497b341ba6e06ec24e1a48df8e3b733965c700031c74f34a9",
+    "theFirstToTimestamp": 1640852851,
+    "theFirstFromHash": "0xe5b6fce42c3b286ed99fd0747118c4c41eaf1973b06876257a5b876af7a1a616",
+    "theFirstFromTimestamp": 1640853715,
+    "type": "wallet"
+}
